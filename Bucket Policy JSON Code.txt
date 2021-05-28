@@ -1,0 +1,7 @@
+00:44:13	IGNITEDMINDS IT TECHNOLOGIES:	{  "Version":"2012-10-17",  "Statement":[{     "Sid":"PublicReadGetObject",     "Effect":"Allow",     "Principal": "*",     "Action":["s3:GetObject"],     "Resource":["arn:aws:s3:::<MY_BUCKET>/*"]  }]}
+00:46:45	Sandeep:	No sir
+00:55:27	Pranathi:	no sir
+00:55:28	Nikhil:	clear sir
+01:08:25	manjuathreddy.g:	no sir
+01:08:35	manjuathreddy.g:	thank you sir
+01:08:37	manjuathreddy.g:	bye
